@@ -1,0 +1,31 @@
+Test driver for list functions ... 
+
+First, make some catalog items: 
+
+Next, create an empty list of items: 
+
+Then, add the items to the list: 
+
+And then, show the list: 
+
+code    description                   num_pieces  price
+---------------------------------------------------------
+11030	 Lots_of_Bricks	 1000	 $59.99 
+11022	 Space_Mission	 1700	 $69.99 
+10698	 Lego_Large_Creative_Brick_Box	 790	 $59.99 
+10696	 Lego_Medium_Creative_Brick_Box	 484	 $34.99 
+---------------------------------------------------------
+
+Show item by code, for 10696:
+10696	 Lego_Medium_Creative_Brick_Box	 484	 $34.99 
+
+Show item by code, for 10698:
+10698	 Lego_Large_Creative_Brick_Box	 790	 $59.99 
+
+Show item by code, for 11022:
+11022	 Space_Mission	 1700	 $69.99 
+
+Show item by code, for 11030:
+11030	 Lots_of_Bricks	 1000	 $59.99 
+
+Show item by code, for 99999 (not in list):

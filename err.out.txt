@@ -1,0 +1,14 @@
+
+This program exercises the catalog functions. 
+
+make_catalog_item w/ Creative_Monkey_Fun, #11031, 135 pieces, $9.99):
+
+and then show_catalog_item on Creative_Monkey_Fun:
+11031	 Creative_Monkey_Fun	 135	 $9.99 
+
+Test get_catalog_item (user prompted for input):
+** Create a new item in inventory ** 
+Enter item number: Enter product description (50 char max) : Enter number of pieces in set: Enter retail price : 
+and then show_catalog_item for the user-specified item 
+-843965923	  	 74576452	 $45597537075200.00 
+

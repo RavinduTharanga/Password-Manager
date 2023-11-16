@@ -1,0 +1,13 @@
+10696	Lego_Medium_Creative_Brick_Box	484 34.99
+10698	Lego_Large_Creative_Brick_Box	790 59.99
+11022	Space_Mission 1700 69.99
+11030	Lots_of_Bricks 1000 59.99
+11013	Creative_Transparent_Bricks 500 29.99
+11019	Bricks_and_Functions 500 29.99
+11033	Creative_Fantasy_Universe 1800 89.99
+11014	Bricks_and_Wheels 653 39.99
+11020	Build_Together 1601 99.99
+11028	Creative_Pastel_Fun 333 19.99
+11031	Creative_Monkey_Fun 135 9.99
+
+
